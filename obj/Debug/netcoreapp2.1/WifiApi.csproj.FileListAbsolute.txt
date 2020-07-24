@@ -1,0 +1,14 @@
+C:\Users\Naveen.Malhotra\source\repos\WifiApi\WifiApi\bin\Debug\netcoreapp2.1\WifiApi.deps.json
+C:\Users\Naveen.Malhotra\source\repos\WifiApi\WifiApi\bin\Debug\netcoreapp2.1\WifiApi.runtimeconfig.json
+C:\Users\Naveen.Malhotra\source\repos\WifiApi\WifiApi\bin\Debug\netcoreapp2.1\WifiApi.runtimeconfig.dev.json
+C:\Users\Naveen.Malhotra\source\repos\WifiApi\WifiApi\bin\Debug\netcoreapp2.1\WifiApi.dll
+C:\Users\Naveen.Malhotra\source\repos\WifiApi\WifiApi\bin\Debug\netcoreapp2.1\WifiApi.pdb
+C:\Users\Naveen.Malhotra\source\repos\WifiApi\WifiApi\obj\Debug\netcoreapp2.1\WifiApi.csproj.CoreCompileInputs.cache
+C:\Users\Naveen.Malhotra\source\repos\WifiApi\WifiApi\obj\Debug\netcoreapp2.1\WifiApi.RazorAssemblyInfo.cache
+C:\Users\Naveen.Malhotra\source\repos\WifiApi\WifiApi\obj\Debug\netcoreapp2.1\WifiApi.RazorAssemblyInfo.cs
+C:\Users\Naveen.Malhotra\source\repos\WifiApi\WifiApi\obj\Debug\netcoreapp2.1\WifiApi.AssemblyInfoInputs.cache
+C:\Users\Naveen.Malhotra\source\repos\WifiApi\WifiApi\obj\Debug\netcoreapp2.1\WifiApi.AssemblyInfo.cs
+C:\Users\Naveen.Malhotra\source\repos\WifiApi\WifiApi\obj\Debug\netcoreapp2.1\WifiApi.RazorTargetAssemblyInfo.cache
+C:\Users\Naveen.Malhotra\source\repos\WifiApi\WifiApi\obj\Debug\netcoreapp2.1\WifiApi.dll
+C:\Users\Naveen.Malhotra\source\repos\WifiApi\WifiApi\obj\Debug\netcoreapp2.1\WifiApi.pdb
+C:\Users\Naveen.Malhotra\source\repos\WifiApi\WifiApi\obj\Debug\netcoreapp2.1\WifiApi.csprojAssemblyReference.cache
